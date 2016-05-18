@@ -11,7 +11,7 @@
     "crypto"
   ],
   "main": "./bcrypt",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "author": "Nick Campbell (https://github.com/ncb000gt)",
   "engines": {
     "node": ">= 0.6.0"
@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "bindings": "1.2.1",
-    "nan": "2.0.5",
+    "nan": "2.2.1",
     "node-pre-gyp": "0.6.4"
   },
   "bundledDependencies": [
